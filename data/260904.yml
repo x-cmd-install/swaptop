@@ -7,7 +7,7 @@ about:
   head: 7c88932
   archived: false
   latestVersion: v1.0.6
-  collectedAt: 2026-09-04T19:29:03Z
+  collectedAt: 2026-09-04T21:01:48Z
 timeline:
   created: 2025-04-22
   lastCommit: 2026-05-13
@@ -80,5 +80,28 @@ total:
   openIssue: 0
   commit: 98
 ---
+path: /home/runner/.x-repo/github.com/luis-ota/swaptop
+collectedAt: 2026-09-04T21:01:50Z
+loc:
+  Rust:
+    code: 950
+    comments: 15
+    blanks: 140
+    files: 4
+  Toml:
+    code: 29
+    comments: 0
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 139
+    blanks: 31
+    files: 1
+total:
+  code: 983
+  comments: 154
+  blanks: 177
+  files: 6
 ---
 

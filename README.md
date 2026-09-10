@@ -22,7 +22,13 @@ x install swaptop
 - **Latest**: `v1.0.6` (2026-05-13)
 - **Last commit**: 2026-05-13
 - **Assets in release**: 2
-- **Published**: 2026-05-13T18:21:42Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [swaptop-v1.0.6-linux-amd64.tar.gz](https://github.com/luis-ota/swaptop/releases/download/v1.0.6/swaptop-v1.0.6-linux-amd64.tar.gz) | 827.9 KiB | `native/linux/x64` |
+| [swaptop-v1.0.6-windows-amd64.zip](https://github.com/luis-ota/swaptop/releases/download/v1.0.6/swaptop-v1.0.6-windows-amd64.zip) | 1.2 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -55,8 +61,8 @@ Total: **979** lines of code across **6** files in the top 5 languages.
 Install metadata for swaptop lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `swaptop` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/swaptop.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/swaptop.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:38:06Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:21:06Z._

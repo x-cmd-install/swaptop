@@ -12,7 +12,7 @@ swap usage monitor written in rust
 x install swaptop
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **979** 行代码（覆盖前 5 种语言、共 **6** 个文件）。
 
@@ -76,4 +76,4 @@ swaptop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:08:18Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:38:39Z._

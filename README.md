@@ -45,12 +45,12 @@ Total: **979** lines of code across **6** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-17 | 1 | 2 | 0 | 1 | 0 | 5 |
-| 360d | 2025-09-18 | 4 | 5 | 0 | 2 | 0 | 16 |
-| last720d | 2024-09-23 | 6 | 6 | 0 | 3 | 0 | 98 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-18 | 1 | 2 | 0 | 1 | 0 | 5 |
+| 360d | 2025-09-19 | 4 | 5 | 0 | 2 | 0 | 16 |
+| last720d | 2024-09-24 | 6 | 6 | 0 | 3 | 0 | 98 |
 
 ## Release assets
 
@@ -58,14 +58,6 @@ Total: **979** lines of code across **6** files in the top 5 languages.
 |-------|-----:|--------|
 | [swaptop-v1.0.6-linux-amd64.tar.gz](https://github.com/luis-ota/swaptop/releases/download/v1.0.6/swaptop-v1.0.6-linux-amd64.tar.gz) | 827.9 KiB | `native/linux/x64` |
 | [swaptop-v1.0.6-windows-amd64.zip](https://github.com/luis-ota/swaptop/releases/download/v1.0.6/swaptop-v1.0.6-windows-amd64.zip) | 1.2 MiB | `native/win/x64` |
-
-## Distribution status
-
-Reported by **6** distros on [repology.org](https://repology.org/project/swaptop). **6** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.0.6` | ✅ latest |
 
 ## Improve this data
 
@@ -76,4 +68,4 @@ Install metadata for swaptop lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:01:57Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:02:33Z._

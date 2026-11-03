@@ -25,28 +25,6 @@
   summary: Swap usage monitor
   licenses:
     - MIT
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: swaptop
-  binname: swaptop
-  visiblename: swaptop
-  version: 1.0.6
-  origversion: 1.0.6-1
-  status: newest
-  summary: Swap usage monitor
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: swaptop
-  binname: swaptop
-  visiblename: swaptop
-  version: 1.0.6
-  origversion: 1.0.6-1
-  status: newest
-  summary: Swap usage monitor
-  licenses:
-    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: swaptop

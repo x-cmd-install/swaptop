@@ -1,20 +1,4 @@
-- repo: altsisyphus
-  srcname: swaptop
-  binnames:
-    - swaptop
-    - swaptop-debuginfo
-  visiblename: swaptop
-  version: 1.0.6
-  origversion: 1.0.6-alt1
-  status: newest
-  summary: swap usage monitor written in rust
-  maintainers:
-    - zerospirit@altlinux.org
-  licenses:
-    - MIT
-  categories:
-    - Monitoring
-- repo: arch
+- repo: manjaro_unstable
   subrepo: extra
   srcname: swaptop
   binname: swaptop
@@ -47,7 +31,23 @@
   summary: Swap usage monitor
   licenses:
     - MIT
-- repo: manjaro_unstable
+- repo: altsisyphus
+  srcname: swaptop
+  binnames:
+    - swaptop
+    - swaptop-debuginfo
+  visiblename: swaptop
+  version: 1.0.6
+  origversion: 1.0.6-alt1
+  status: newest
+  summary: swap usage monitor written in rust
+  maintainers:
+    - zerospirit@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Monitoring
+- repo: arch
   subrepo: extra
   srcname: swaptop
   binname: swaptop
@@ -56,6 +56,17 @@
   origversion: 1.0.6-1
   status: newest
   summary: Swap usage monitor
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: swaptop
+  visiblename: swaptop
+  version: 1.0.6
+  origversion: null
+  status: newest
+  summary: Swap usage monitor written in rust
+  maintainers:
+    - phanirithvij2000@gmail.com
   licenses:
     - MIT
 - repo: parabola

@@ -30,27 +30,27 @@ Total: **979** lines of code across **6** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.6` (2026-05-13)
-- **Last commit**: 2026-05-13
+- **Last commit**: 2026-11-25
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 163 · **Forks**: 9 · **Open issues**: 3 · **Contributors**: 3
+- **Stars**: 162 · **Forks**: 9 · **Open issues**: 3 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 6 · **Open PRs**: 0 · **Closed issues**: 3 · **Open issues**: 0 · **Commits**: 98
+- **Releases**: 6 · **Merged PRs**: 7 · **Open PRs**: 0 · **Closed issues**: 3 · **Open issues**: 0 · **Commits**: 100
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-30 | 2 | 2 | 0 | 1 | 0 | 7 |
-| last720d | 2024-12-05 | 6 | 6 | 0 | 3 | 0 | 98 |
+| 30d | 2026-10-27 | 0 | 1 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 0 | 1 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 0 | 1 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 0 | 1 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-01 | 2 | 3 | 0 | 1 | 0 | 0 |
+| last720d | 2024-12-06 | 6 | 7 | 0 | 3 | 0 | 100 |
 
 ## Release assets
 
@@ -58,6 +58,15 @@ Total: **979** lines of code across **6** files in the top 5 languages.
 |-------|-----:|--------|
 | [swaptop-v1.0.6-linux-amd64.tar.gz](https://github.com/luis-ota/swaptop/releases/download/v1.0.6/swaptop-v1.0.6-linux-amd64.tar.gz) | 827.9 KiB | `native/linux/x64` |
 | [swaptop-v1.0.6-windows-amd64.zip](https://github.com/luis-ota/swaptop/releases/download/v1.0.6/swaptop-v1.0.6-windows-amd64.zip) | 1.2 MiB | `native/win/x64` |
+
+## Distribution status
+
+Reported by **7** distros on [repology.org](https://repology.org/project/swaptop). **7** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.0.6` | ✅ latest |
+| Nix unstable | `1.0.6` | ✅ latest |
 
 ## Improve this data
 
@@ -68,4 +77,4 @@ Install metadata for swaptop lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:27:12Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:25:39Z._
